@@ -1,0 +1,12 @@
+{
+  "name": "generator-bbb",
+  "version": "0.0.0",
+  "dependencies": {
+    "almond": "~0.2.5",
+    "backbone-amd": "~1.0.0",
+    "lodash": "~1.1.1",
+    "jquery": "~1.9.1",
+    "requirejs": "~2.1.5",
+    "layoutmanager": "~0.8.7"
+  }
+}
